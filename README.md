@@ -1,1 +1,1 @@
-# DSA-Training
+# DSA-Training Algorithmn
